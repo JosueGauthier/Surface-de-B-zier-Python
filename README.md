@@ -15,15 +15,15 @@ The files :
 Concerns the generation of Béziers surfaces from control surfaces. 
 
 The files : 
--raccordsCC0
--raccordsCC1
--raccordsCG1 
+- raccordsCC0
+- raccordsCC1
+- raccordsCG1 
 Relate to the management of connections between Béziers curves. A description is available in the associated PDF.
 
 The files : 
--raccordsSC0
--raccordsSC1
--raccordsSG1
+- raccordsSC0
+- raccordsSC1
+- raccordsSG1
 
 Concerns the management of connections between Béziers surfaces. 
 
