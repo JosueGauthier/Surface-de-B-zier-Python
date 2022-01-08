@@ -27,5 +27,8 @@ The files :
 
 Concerns the management of connections between Béziers surfaces. 
 
+
+
+
 The other files are function subprograms 
 
